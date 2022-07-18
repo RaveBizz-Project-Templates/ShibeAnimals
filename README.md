@@ -1,6 +1,8 @@
 # ShibeAnimals
 
 [WireFrames](https://whimsical.com/shibe-animals-GJErduxWdjvKUYZe4yScaW)
+[Project Board](https://www.notion.so/ravebizz/58bc312753304cf3952d836bd3b9b658?v=02cfd887b6224cc2ae6945c04a8cd072)
+
 
 
 
