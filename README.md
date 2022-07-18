@@ -1,3 +1,3 @@
 # ShibeAnimals
 
-(WireFrames)[https://whimsical.com/shibe-animals-GJErduxWdjvKUYZe4yScaW]
+[WireFrames](https://whimsical.com/shibe-animals-GJErduxWdjvKUYZe4yScaW)
